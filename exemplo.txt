@@ -1,1 +1,8 @@
 hello darkness, my old friend
+
+http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
+
+git remote set-url origin https://github.com/PedroWiller/Exemplo.git
+git 
+push -u origin master or git push --set-upstream  origin master
+
