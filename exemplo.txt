@@ -6,3 +6,8 @@ git remote set-url origin https://github.com/PedroWiller/Exemplo.git
 git 
 push -u origin master or git push --set-upstream  origin master
 
+'!git checkout master && git pull'
+
+git name-rev --name-only HEAD
+
+
